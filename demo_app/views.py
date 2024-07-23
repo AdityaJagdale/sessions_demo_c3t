@@ -1,5 +1,3 @@
-# demo_app/views.py
-
 from django.shortcuts import render, redirect
 from .forms import CPUForm, GPUForm, RAMForm
 from .models import CPU, GPU, RAM
